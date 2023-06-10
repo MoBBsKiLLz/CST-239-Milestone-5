@@ -1,0 +1,6 @@
+{"name": "Light Armor","description": "Light armor with low resistance.","price": 5.99,"quantity": 7}
+{"name": "Heavy Armor","description": "Heavy armor with high resistance.","price": 9.99,"quantity": 3}
+{"name": "Sword","description": "Close range with high damage.","price": 3.99,"quantity": 2}
+{"name": "Bow","description": "Long range weapon with low damage.","price": 7.99,"quantity": 2}
+{"name": "Small Health","description": "Small amount of health.","price": 5.00,"quantity": 12}
+{"name": "Large Health","description": "Large amount of health.","price": 15.00,"quantity": 6}
